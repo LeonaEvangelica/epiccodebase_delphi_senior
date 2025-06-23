@@ -2,7 +2,6 @@
 # 📘 Projeto: epiccodebase_delphi_senior (Projeto ainda incompleto)
 
 Sistema de Gestão de Ordens de Serviço (OS) desenvolvido em Delphi com arquitetura em camadas, integração com SQL Server, consumo da API ViaCEP e aplicação de princípios SOLID.
-O projeto ainda está incompleto, porém já deixei o README.md pronto.
 ---
 
 ## 🚀 Passos para Executar o Projeto
