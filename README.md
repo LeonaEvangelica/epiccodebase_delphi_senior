@@ -43,7 +43,7 @@ epiccodebase_delphi_senior/
 │   └── GestaoOS.sql                 → Script para criação das tabelas no SQL Server
 │
 ├── /tests/
-│   └── TestOrdemServico.pas         → Testes unitários com DUnitX (Não criado ainda)
+│   └── uTestOrdemServico.pas        → Testes unitários com DUnitX (Incompleto)
 │
 ├── epiccodebase_delphi_senior.dpr   → Arquivo de Projeto do Delphi
 │

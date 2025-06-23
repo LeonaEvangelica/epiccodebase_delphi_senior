@@ -136,6 +136,7 @@
         </DCCReference>
         <DCCReference Include="src\ViewModel\uViewModelOrdemServico.pas"/>
         <DCCReference Include="src\Service\uServiceViaCEP.pas"/>
+        <DCCReference Include="tests\uTestOrdemServico.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

@@ -9,7 +9,8 @@ uses
   uServiceOrdemServico in 'src\Service\uServiceOrdemServico.pas',
   FrmOrdemServico in 'src\View\FrmOrdemServico.pas' {FormOrdemServico},
   uViewModelOrdemServico in 'src\ViewModel\uViewModelOrdemServico.pas',
-  uServiceViaCEP in 'src\Service\uServiceViaCEP.pas';
+  uServiceViaCEP in 'src\Service\uServiceViaCEP.pas',
+  uTestOrdemServico in 'tests\uTestOrdemServico.pas';
 
 {$R *.res}
 
